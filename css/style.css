@@ -1,3 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300&family=Beau+Rivage&display=swap');
 
+#titre {
+    font-family: 'Beau Rivage', 'Helvetica Neue';
+    text-align: center;
+    font-size: 50px;
+}
+
+nav{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    color: white;
+    background-color: #ccc;
+}
+
+li{
+    font-family: 'Akshar', 'Helvetica Neue';
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+li:hover{
+    color: rgb(249, 196, 23);
+    transition: color 0.5s ease;
+    text-shadow: 1Px 10px 0px 0px;
+}
