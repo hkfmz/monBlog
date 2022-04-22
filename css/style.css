@@ -1,136 +1,86 @@
-@import url("https://fonts.googleapis.com/css2?family=Beau+Rivage&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Akshar:wght@300&family=Beau+Rivage&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300&family=Beau+Rivage&display=swap');
 
 #titre {
-  font-family: "Beau Rivage", "Helvetica Neue";
-  text-align: center;
-  font-size: 50px;
+    font-family: 'Beau Rivage', 'Helvetica Neue';
+    text-align: center;
+    font-size: 50px;
 }
 
-nav {
-  list-style: none;
-  display: flex;
-  justify-content: space-evenly;
-  padding: 20px;
-  color: white;
-  background-color: rgb(39, 154, 216);
+nav{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    color: white;
+    background-color: rgb(39, 154, 216);
 }
 
-li {
-  font-family: "Akshar", "Helvetica Neue";
-  font-size: 25px;
-  font-weight: bold;
-  cursor: pointer;
+li{
+    font-family: 'Akshar', 'Helvetica Neue';
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
 }
 
-li:hover {
-  color: rgb(249, 196, 23);
-  transition: color 0.5s ease;
-  text-shadow: 1px 10px 0px 0px;
+li:hover{
+    color: rgb(249, 196, 23);
+    transition: color 0.5s ease;
+    text-shadow: 1Px 10px 0px 0px;
 }
 
-.leformateur {
-  border: 1px solid green;
+.leformateur{
+    border: 1px solid green;
 }
 
-.zineddine {
-  border: 1px solid red;
+.zineddine{
+    border: 1px solid red;
 }
 
 .cyril {
-  border: 1px solid blue;
+    border: 1px solid blue ;
 }
-
-.cyril:hover {
-    background-color: blue;
-    transition: 1s;
-    color: white
-  }
-  
-.evelain {
-  border: 1px solid yellow;
+.evelain{
+    border: 1px solid yellow ;
 }
-.julien {
-  border: 1px solid orange;
-}
-.ysuf {
-  border: 1px solid black;
-}
-
-.johann {
-  border: 1px solid aquamarine;
-}
-
-.johann:hover {
-  background-color: gold;
-  transition: 1s;
-}
-
-.marco {
-  border: 1px solid rgb(238, 37, 10);
-}
-
-.marco:hover {
-  background-color: rgb(0, 132, 255);
-  transition: 1s;
-}
-.clement {
-  border: 1px solid rgb(64, 109, 146);
-}
-
-.clement:hover {
-  background-color: rgb(12, 20, 27);
-  transition: 1s;
-  color: white;
-}
-
-.kevin {
-  font-family: "Courier New", monospace;
-  border: 1px solid rgb(184, 47, 136);
-}
-
-.kevin:hover {
-  background-color: rgb(184, 26, 26);
-  transition: 1s;
-  color: rgb(34, 196, 129);
-}
-
-.angelo {
-  font-family: "Courier New", monospace;
-  border: 1px solid rgb(37, 1, 241);
-}
-
-.angelo:hover {
-  background-color: rgb(24, 9, 109);
-  transition: 1s;
-  color: rgb(255, 255, 255);
-}
-
-.loic {
-    font-family: "Courier New", monospace;
-    border: 1px solid rgb(255, 0, 0);
-  }
-  
-  .loic:hover {
-    background-color: rgb(0, 255, 0);
-    transition: 1s;
-    color: rgb(255, 255, 255);
-  }
-  .aminata {
-    border: 1px solid green;
-  } 
-  .aminata:hover {
-    background-color:purple;
-    transition: 1s;
-    color: rgb(255, 255, 255);
-  }
-   
-  .akish {
+.julien{
     border: 1px solid orange;
-  } 
-  .akish:hover {
-    background-color:orange;
+}
+.ysuf{
+    border: 1px solid black;
+}
+
+.johann{
+    border: 1px solid aquamarine;
+}
+
+.johann:hover{
+    background-color: gold;
     transition: 1s;
-    color: rgb(255, 255, 255);
-  }
-   
+}
+
+.marco{
+    border: 1px solid rgb(238, 37, 10);
+}
+
+.marco:hover{
+    background-color: rgb(0, 132, 255);
+    transition: 1s;
+}
+.clement{
+    border: 1px solid rgb(64, 109, 146);
+}
+
+.clement:hover{
+    background-color: rgb(12, 20, 27);
+    transition: 1s;
+    color: white;
+}
+.akish{
+    border: 1px solid orange;
+}
+.akish{
+    background-color: orange;
+    transition: 1s;
+    color: white;
+}
