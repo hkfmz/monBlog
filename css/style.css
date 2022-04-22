@@ -58,3 +58,12 @@ li:hover{
     background-color: gold;
     transition: 1s;
 }
+
+.marco{
+    border: 1px solid rgb(238, 37, 10);
+}
+
+.marco:hover{
+    background-color: rgb(0, 132, 255);
+    transition: 1s;
+}
