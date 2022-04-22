@@ -77,9 +77,9 @@ li:hover{
     color: white;
 }
 .akish{
-    border: 1px solid orange;
+    border: 1px solid red;
 }
-.akish{
+.akish:ghover{
     background-color: orange;
     transition: 1s;
     color: white;
