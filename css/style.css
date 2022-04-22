@@ -49,3 +49,12 @@ li:hover{
 .ysuf{
     border: 1px solid black;
 }
+
+.johann{
+    border: 1px solid aquamarine;
+}
+
+.johann:hover{
+    background-color: gold;
+    transition: 1s;
+}
