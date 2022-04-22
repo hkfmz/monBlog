@@ -67,3 +67,12 @@ li:hover{
     background-color: rgb(0, 132, 255);
     transition: 1s;
 }
+.clement{
+    border: 1px solid rgb(64, 109, 146);
+}
+
+.clement:hover{
+    background-color: rgb(12, 20, 27);
+    transition: 1s;
+    color: white;
+}
