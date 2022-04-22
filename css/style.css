@@ -87,3 +87,14 @@ li:hover {
   transition: 1s;
   color: rgb(34, 196, 129);
 }
+
+.angelo {
+  font-family: "Courier New", monospace;
+  border: 1px solid rgb(37, 1, 241);
+}
+
+.angelo:hover {
+  background-color: rgb(24, 9, 109);
+  transition: 1s;
+  color: rgb(255, 255, 255);
+}
