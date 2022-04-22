@@ -40,6 +40,13 @@ li:hover {
 .cyril {
   border: 1px solid blue;
 }
+
+.cyril:hover {
+    background-color: blue;
+    transition: 1s;
+    color: white
+  }
+  
 .evelain {
   border: 1px solid yellow;
 }
