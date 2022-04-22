@@ -116,4 +116,12 @@ li:hover {
     transition: 1s;
     color: rgb(255, 255, 255);
   }
-  
+  .aminata {
+    border: 1px solid green;
+  } 
+  .aminata:hover {
+    background-color:purple;
+    transition: 1s;
+    color: rgb(255, 255, 255);
+  }
+   
